@@ -1,0 +1,900 @@
+{"text": "My latest bill shows $125, but I thought my plan was $99; could you clarify this discrepancy?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "When exactly is my next invoice due for payment?", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "The amount on invoice #MER-2024-03-4567 seems incorrect, please investigate.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Why was I charged $149.99 on April 1st?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Can you explain how my monthly subscription fee is calculated?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "This bill is way too high, what happened?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I need to know the due date for my upcoming payment, thanks.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "My card was charged $75, what was that for?", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "Could you provide a breakdown of the charges on my last invoice?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Is there a way to see my next billing cycle start date?", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "The recent Meridian charge on my statement doesn't make sense.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I'm confused about the pricing tier for my team, how does it work?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Bill is wrong.", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "When's the next automatic payment coming out?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I'm trying to figure out why this month's bill is $20 more than usual.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Please explain the itemized costs for my Pro plan subscription.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I have an unexpected charge of $50, what's its purpose?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Next invoice date for account associated with user@example.com?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "This payment calculation is baffling, can you walk me through it?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I'm seeing a $299 charge from Meridian, what's this for? My plan is usually $199.", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "My bill shows an extra user, but we haven't added anyone.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Could you tell me the date of my next recurring charge?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I was expecting a bill for $80, not $100.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "How exactly do you determine the final amount for my premium plan?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Need to know when my next bill drops.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Invoice #98765 is higher than anticipated, please explain the increase.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Why the sudden price hike?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Can you send me details on my billing schedule?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I don't understand the variable charges on my latest statement from March 20th.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "My account, under 'Project Phoenix', got charged an odd amount on 2/28. What gives?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Is there an overview of my current plan's pricing structure?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "The charge on my statement for $110 doesn't match my records.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Where can I find information about my next payment due date?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "This is ridiculous, my bill went up again without warning!", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I just saw a charge for $250.00 from Meridian on my card. I need to know why.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Can you break down how the total on my last invoice was reached, including any usage fees?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "What's my upcoming billing date?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "My invoice number INV-MERIDIAN-54321 is for $349, but I only authorized $299.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Please explain how Meridian calculates per-user charges.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Is my next bill going to be similar to the last one, or are there changes?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "What is the $30 'service fee' on my bill from last month?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Wen is my nxt invice? My bill looks off this month too.", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "I need a clear explanation of my bill's line items for the period ending 04/30/2024.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Hello, I just want to understand the exact date my subscription renews and gets charged.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "My last billing statement seems to have an error regarding the total sum.", "true_intent": "billing_charges", "was_resolved_by_fin": true}
+{"text": "Can you clarify how upgrades affect my monthly subscription cost immediately?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Why was my account billed twice in one month?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "What's the schedule for my Meridian payments going forward?", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "I'm looking at invoice MER2024-Q2-001 for Account 'Alpha Team' and the total is incorrect.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "Explain the pricing, it's not clear on the website how you got to this amount.", "true_intent": "billing_charges", "was_resolved_by_fin": false}
+{"text": "How many active seats do we currently have on our Meridian account, and what's our plan limit?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I need to add a new user, Sarah Davies, but it says we've reached our maximum. Can you help?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We want to reduce our subscription by two seats; how do we go about deactivating those licenses?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "What's the exact cost per additional seat beyond our current 15-user tier?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "My team is growing fast, do we have enough slots for 3 more people next month?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Could you please clarify our seat allowance for the Enterprise plan we're on?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I'm trying to remove John Smith who left on 2024-03-15 but can't find the option in settings.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Hey, uh, what's our current user count? I think it's 12 but someone said 15.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Why can't I invite a new colleague? It just keeps saying 'License limit exceeded'.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Need to free up a seat for a new hire, user 'old_employee@example.com' needs to be removed.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "What happens if we exceed our seat limit temporarily? Will we be charged extra?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Our organization, ID MER-ORG-7890, needs to confirm its current seat usage.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Can you tell me if we have any available seats left on our account for new users?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "This seat management system is really confusing; I just want to add a user, Mark, without all the hassle.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I need to remove user MER-USR-0012 as they are no longer with us. Please confirm removal.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "How many total users are we provisioned for on our current Meridian plan?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We're getting an error when inviting a new team member. Is this related to our seat count?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Could you send me an invoice showing our current seat count and what we're paying for?", "true_intent": "seat_management", "was_resolved_by_fin": true}
+{"text": "Please investigate why user \"alex.j@company.com\" can't log in due to license restrictions.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I want to add 5 new seats to our account immediately; what's the fastest way to do this?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We're trying to downsize; what's the process for permanently removing 3 seats from our subscription?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I'm hitting a wall trying to understand our seat limits. What's the deal with the Business tier?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I gotta know our exact seat count, like, right now. It's urgent.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We've got a new employee starting, Emily White. I need to add her to Meridian, but I'm unsure about our available seats.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "My dashboard says 8 users, but I'm sure we have 10. Can you confirm the correct number?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "This is ridic. Can't add new users, says too many. We shud have space.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Just wanna know our seat usage. Simple as that.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "What's the maximum number of active users allowed on our Professional plan, account ID Meridian-ACCT-ABC-123?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I need help figuring out how to reduce our seat count by one, for a user named 'Former Employee X'.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We're considering upgrading our plan. What are the seat limits for the various tiers?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "How much will it cost to add just one more user license for a month?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I'm having trouble with seat allocation; it's not letting me add anyone even though we have spare capacity.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Can you confirm we successfully removed the license for David Lee last Friday?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We need to add two temporary users for a project that ends next month. How does that impact our seat count?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "How many users are we currently paying for? I'm trying to reconcile our budget.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We need to provision a seat for 'newhire@ourcompany.com' but our admin panel seems to be stuck.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "What's the procedure for changing our subscription from 20 seats to 15 seats?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Is there a way to view all active users and their seat consumption from one place?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We require 4 more seats by end of day today. What steps should I take to facilitate this?", "true_intent": "seat_management", "was_resolved_by_fin": true}
+{"text": "I'm trying to invite a contractor but it keeps saying we're full. Can you check our current seat availability?", "true_intent": "seat_management", "was_resolved_by_fin": true}
+{"text": "Please confirm the number of unused licenses we currently possess.", "true_intent": "seat_management", "was_resolved_by_fin": true}
+{"text": "We want to remove a user named Jessica Chen but the system isn't cooperating. Help please.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "My understanding of our seat limits is hazy. Could you clarify our plan's user capacity?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "URGENT: We cannot onboard our new CEO due to a seat limit. Fix this now!", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "Hi, could you please tell me how many seats our company, \"Tech Innovations Inc.\", currently has?", "true_intent": "seat_management", "was_resolved_by_fin": true}
+{"text": "The system says we only have 0 seats available, but we've only used 5 of our 10. What gives?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "We need to remove an employee, user ID 99876, and free up that seat.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "What's the policy for prorating seat additions or removals partway through a billing cycle?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I'm looking to add three more users next quarter. Can you provide information on pricing and process for our account, \"Global Solutions\"?", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "My boss wants to know our total allocated and used seats for Meridian by tomorrow morning.", "true_intent": "seat_management", "was_resolved_by_fin": false}
+{"text": "I can't log into my account, it keeps saying \"invalid credentials\" even though I'm sure my password is correct.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "My team workspace \"Alpha Projects Inc.\" isn't showing up after I sign in; only my personal one is visible.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Help! I'm locked out, the system says I've made too many login attempts and my account is suspended.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "The password reset link isn't arriving in my inbox (checked spam too), and I really need to get into Meridian ASAP.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Why does my account say it's inactive? We just paid our bill last week.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I'm trying to log in via Google SSO, but it's just spinning and not authenticating me.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I got an invite for the \"Beta Innovations\" workspace, but when I click the link, it says the invite is expired.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "My username is 'john.doe@example.com' and I haven't been able to access anything since yesterday afternoon.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "We're having trouble adding new users to our workspace; the \"add user\" button is grayed out for me.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Meridian won't let me log in on Chrome, but it works fine on Firefox, what's going on?", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My admin, Sarah Chen, cannot access the billing portal anymore, she used to have full access.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I keep getting an error message \"ERR-LOGIN-003\" every time I try to sign in.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My login details aren't working, and I'm positive I'm using the right ones; maybe my account email changed somehow?", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Can someone reactivate user 'david.lee@companyx.com'? He was accidentally deactivated.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "I cannot access the 'Client Project X' workspace; it says \"permission denied\" when I try to join.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "The workspace for \"Green Earth Solutions\" isn't showing up in my list, I should have access.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I've forgotten my password and the reset process isn't working for some reason; I need to get back in urgently for a deadline today.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My account was suspended due to \"unpaid invoice,\" but we paid invoice #MERIDIAN-2023-017 on 2024-03-15.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Just logged in, but my dashboard is completely empty, all my projects and tasks are gone, this can't be right.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I received an email saying my account was successfully deleted, but I didn't request that!", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "After the recent update, I can't log in anymore; it just redirects me to the login page over and over.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "The system says my account is pending approval, but I created it a week ago for 'Project Nimbus'.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I'm locked out of our primary workspace, \"Acme Corp Global,\" and I'm the primary admin, this is a disaster.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My login credentials for 'jessica.k@email.com' are suddenly not working, please help.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My organization's SSO login is failing; it pops up an error after trying to authenticate.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "I'm trying to sign up a new user, 'Maria Rodriguez', but the invite link never gets to her.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Why am I suddenly logged out every five minutes? It's really interrupting my workflow.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "My account appears to be downgraded, and I can't access features I used to have.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I can't log in to Meridian, getting a generic \"something went wrong\" message.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My profile shows I'm a \"guest\" in the main company workspace, but I should be a full member.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Is Meridian down? I'm getting a network error when trying to reach the login page.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I'm unable to change my password; the current password field is greyed out.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "My colleague 'Alex Pham' is locked out of his account, says too many failed attempts, can you unlock him?", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "The system won't let me reset my password for user ID 'MER-USER-7890' even after multiple tries.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My account status changed to \"read-only\" without any notification, why can't I edit anything?", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "I cannot log in with my enterprise SSO, it's just hanging on the authentication screen indefinitely.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I created a new workspace, but now I can't find it when I log in, only the default one is there.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "I'm getting a message that my \"session has expired\" immediately after logging in.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My old email address is linked to my Meridian account and I can't log in because I no longer have access to it to reset the password.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Login broken. Can't access anything. Please fix it fast.", "true_intent": "account_access", "was_resolved_by_fin": true}
+{"text": "Yo, Meridian login borked for me. My email is tom.s@example.net. Get me back in pls.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I cannot log into my account, which is for \"United Global Logistics,\" since around 10 AM EST today and it's showing an error about tenant ID mismatch, which makes no sense to me whatsoever.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "Account shows 'pending cancellation' but we renewed last month on April 5th for our annual subscription, what gives?", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My access to the \"Marketing Team\" workspace was revoked yesterday, but I need it for my job.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I keep getting \"Access Denied\" after entering my credentials, is there an IP block for my office?", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "The login page says my subscription has ended, but our annual payment was processed on 2024-03-01.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I can't get into Meridian, getting a server error message, please check if the service is down.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My new hire, Susan K, can't accept her invitation to our workspace, it just gives an error.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "I accidentally logged into the wrong Meridian account and can't figure out how to switch to my main one.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My account seems to be stuck in a pending state, I can't do anything after logging in.", "true_intent": "account_access", "was_resolved_by_fin": false}
+{"text": "My task updates are not syncing for others on my team.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I can't see the new \"Project Atlas\" that was just created, is there a delay?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Our Trello integration looks completely frozen, nothing's coming over from Meridian since yesterday.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The project overview for 'Client Retention' shows outdated progress bars, even after multiple refreshes.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I completed Task #54321 for Mark's team this morning, but it's still marked as \"To Do\" for everyone else. What's going on?", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "Meridian isn't reflecting changes I made to several tasks in the 'Website Redesign' project an hour ago.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Why are my assigned tasks vanishing from my \"My Work\" view after I mark them complete? They reappear later as incomplete.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "All the tasks assigned to Sarah for the \"Q3 Marketing Blitz\" project are showing incorrect statuses.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Our Slack integration for task updates is totally broken, no new notifications are coming through.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I just added a new milestone to 'Project Genesis', but it's not appearing on the timeline for anyone else.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "There's a serious lag in updates; it takes ages for new comments or task assignments to show up for my colleagues.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "Is there a problem with the server? Nothing seems to be syncing on my end for the last 30 minutes.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The main dashboard for my team is showing tasks from last week that have already been moved to \"Done.\" This is misleading.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I made a critical change to the due date for \"Budget Approval\" task, but it reverted back to the old date. This is unacceptable.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Projects I created over the weekend aren't visible in my project list. Did they get deleted or is it a sync issue?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The data in our custom fields for 'Employee Onboarding' projects isn't consistent across user views.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "The calendar view is showing old tasks; it's not pulling the latest information from Meridian properly.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "My task descriptions aren't saving properly, I keep having to re-type them.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "We're seeing major discrepancies between what's in Meridian and our external reporting tool, probably due to a sync failure.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "I'm unable to share Project Aurora with new team members because it's not showing up for them.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "The \"Recently Updated\" section of my home screen is displaying stale information, everything is hours behind.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Please fix the sync, my tasks for the 'HR Initiative' are not showing up as completed for others.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Why is the overall project status for \"System Migration\" stuck at 50% when we're clearly further along?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "It seems like changes made by Team B aren't visible to Team A in Project Gemini. Is there a permissions or sync problem?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I added a new phase to 'Product Launch' yesterday, but it's completely missing from the project plan today.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Meridian isn't pushing updates to our connected Jira tasks, the statuses are completely out of sync.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "This is really frustrating, my tasks keep disappearing and reappearing as if they're not syncing correctly.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "Syncing with our external CRM has stopped working, new leads aren't creating tasks in Meridian.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I can't view any of the recent comments on Task #98765, it just shows an older version of the task.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "My project workspace looks exactly like it did yesterday morning, none of today's work has appeared.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Updates to attachments on Project Alpha's tasks are not showing up for anyone else on the team.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The dashboard says \"Syncing...\" perpetually but nothing ever actually updates. Is this normal?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "I changed the assignee for Task \"Review Contract\" (P-345) to David, but it still shows Maria.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The project \"New Office Build\" isn't showing up for me at all, but I know it's active.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "Is Meridian having sync issues with Google Drive? Our linked documents aren't showing up for colleagues.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "My changes aren't going through. Every time I update a task, it just reverts back. What am I missing?", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The tasks I marked as \"In Progress\" keep reverting to \"Not Started\" after a few minutes. This is really slowing us down.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Our custom integration for inventory management seems to have stopped syncing data to Meridian.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The activity log for 'Client Presentation Prep' isn't reflecting recent task completions or comments.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "I refreshed the page ten times, and the new project 'Expansion Plan' still isn't showing up for me or my team.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "My updates to the 'Budget Tracking' project aren't saving, it's just showing old data.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Tasks created by my manager are not visible to me, despite being on the same project.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Why are the latest comments not appearing on Task ID: PRJ-777-T-001? It's showing very old discussions.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The project \"Holiday Campaign\" keeps showing up blank for my entire team, even though I've added tasks.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Meridian seems to be stuck in a time warp; all my tasks are showing their status from hours ago.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Can you check the sync between Meridian and our time-tracking tool? The hours aren't matching up.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "My changes to the project description for \"Operations Overhaul\" are not persisting.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "The list of subtasks for 'Phase 2 Development' is incomplete; several items I added yesterday are missing.", "true_intent": "project_sync", "was_resolved_by_fin": true}
+{"text": "I'm having trouble with projects not syncing between my desktop app and the web version.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Updates to our team's shared project board are not visible to everyone, causing confusion.", "true_intent": "project_sync", "was_resolved_by_fin": false}
+{"text": "Is our single sign-on configured and active for our organization?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Users are reporting they can't log in using SSO; it just throws an error page.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We need to verify our SAML configuration. Can you confirm the Assertion Consumer Service URL for our instance?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "What's the status on enabling SSO for our 'Alpha Project' account? We submitted the metadata last Tuesday.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Our SAML certificate expires next month. How do we update it on your side?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "The single sign-on flow for account #45678 isn't working, users are getting 'authentication failed'.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Can you check if SSO is correctly enabled for Acme Corp? A few new team members can't get past the login.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "I need to know the exact SAML attributes Meridian expects for user provisioning.", "true_intent": "sso_state", "was_resolved_by_fin": true}
+{"text": "We're having trubble with SSO. It was working yesterday, but today nobody can log in. Is there an issue with our SAML config?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Is it possible to get a copy of our current SAML metadata from your end?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We tried logging in with SSO and got a blank page. What gives?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "My team is furious; SSO isn't working and they can't access their tasks. Please investigate our SAML setup ASAP.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Can you confirm the Entity ID Meridian uses for our SAML integration?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We've got users stuck at the IdP redirect loop. This points to a SAML config issue, can you check our setup?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "What's the recommended way to test our SSO configuration without affecting live users?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "SSO is broken for us. We're on account 'Beta Solutions'. This is critical.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "I cannot find the SSO settings in the admin panel. Is it enabled for us, or do I need to request it?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We updated our IdP, and now SSO doesn't work. Can you help us debug our SAML config?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We're seeing 'Invalid SAML Response' errors. Can you confirm our public certificate on your end?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Why isn't SSO working? We followed all the steps, but users like Mike T. still can't sign in.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We need to know if SAML is currently enforcing signed assertions from our IdP.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "The SSO login page isn't even showing up as an option for some users. Is it enabled?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Hey, is our Meridian SSO setup complete? We're trying to roll it out tomorrow, July 24th.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We've implemented SSO, but our users can't login through it. They are redirected to the standard login. What's misconfigured?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Is there a way to force SSO login for all users on our domain?", "true_intent": "sso_state", "was_resolved_by_fin": true}
+{"text": "Can you provide the exact SAML callback URL we should use for our Okta integration?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "SSO seems to be partially working. Some users can log in, others can't. What could cause this inconsistent behavior with our SAML config?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We're getting an IdP error related to the Meridian SAML configuration. Can you review our settings?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "My boss is asking why SSO isn't live yet. Can you check on the progress of our SAML enablement request?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We need to disable SSO temporarily for maintenance; how do we do that? Or is it something you need to do?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "The single sign-on for account ID 98765 seems to have reverted. Users are being prompted for Meridian credentials.", "true_intent": "sso_state", "was_resolved_by_fin": true}
+{"text": "What's the process to re-upload our SAML IdP metadata if it changes?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Is SSO active for our organization, 'Global Innovate Solutions'? And if so, what's the login URL, i cannot find it.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We've been trying to set up SSO for days and it's not working. What are we missing in the SAML config? This is super frustrating.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "The SSO option is missing from our login page. Was it disabled by mistake?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We're getting a \"Signature Validation Failed\" error with our SAML configuration. What details do you need from us to troubleshoot?", "true_intent": "sso_state", "was_resolved_by_fin": true}
+{"text": "Can you confirm if our SSO setup requires user provisioning via SAML attributes or if users need to exist in Meridian already?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Our current SAML certificate will expire on 2024-08-15. We've uploaded the new one to our IdP, do we need to send it to you too?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "SSO not working. Plz fix. This is kinda urgent.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Users cannot log in using their corporate credentials through SSO. This is causing significant delays across multiple projects. Our account name is \"Phoenix Rising\".", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We need to check our current SAML settings to ensure they align with our new security policies. Can we get a summary?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We've configured SSO but are still getting \"user not found\" errors, even for existing users. Is something wrong with the attribute mapping in SAML?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "My access to Meridian via SSO stopped working this morning. It redirects me to an error page saying \"unauthorized access\".", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Could you provide the audience URI that Meridian uses for our SAML configuration?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "The SSO login seems to be timing out after the IdP authentication. Is there a session timeout setting in SAML we can adjust?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Hi, can you verify that our single sign-on has been fully enabled? We completed the setup process last week but aren't seeing it functional.", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "We're getting mixed messages about SSO. Is it turned ON or OFF for our domain, 'techsol.org'?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "Our IT department needs to confirm the exact SAML Service Provider metadata for Meridian. Where can we find this?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "User Sarah K. (sarah.k@company.com) cannot log in via SSO, but others can. Could this be a specific SAML user attribute issue?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "SSO is totally broken. This is a mess for our team. What's the deal with the SAML configuration that you guys control?", "true_intent": "sso_state", "was_resolved_by_fin": false}
+{"text": "How do I set up my first project in Meridian?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I need to create a new workspace for my department, where's the option for that?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Trying to invite my team members but I can't locate the team invitation tool.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Just signed up, completely lost on how to initiate a new project; please advise.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "This is so frustrating, I can't figure out how to actually *make* a new project after logging in.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "I'm tring to creat a new prohekt for my marketing team, but the button isn't clear.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "Could you walk me through creating a new project and adding users to it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "My dashboard is up, but I don't see an obvious 'new project' or 'new workspace' button.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I need to get 'Project Chimera' created under the 'R&D' workspace for 'The Innovators' by May 17th. How do I start?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "What's the difference between a project and a workspace? I just want to manage tasks for 'Team Phoenix'.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "Used to Asana, finding Meridian a bit different. How do I create a new main project and then invite collaborators?", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "I invited a few teammates, but now I can't figure out how to put them *into* a project where we can actually do stuff.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "I'm looking for a 'create new' button but only see 'view tasks'. Am I in the wrong section of the app?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "On trial account, testing features. How do I start a new project to evaluate it properly?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Is there a project automatically created or do I need to make one from scratch after signing up?", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "My colleague, Alex Smith (alex.s@fakemail.com), just signed up but can't find how to start a project. What steps should they take?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I'm the admin but don't see a clear path to setting up our first departmental workspace and inviting specific people.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "What's the recommended way to set up a new project and add all my team members, 'Project Alpha' for the 'Marketing' workspace, for optimal collaboration?", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "I literally cannot find a way to create a project. Is this feature even enabled for my account? User ID is M-7890.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Can't create project. Explain.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Do I need special permissions to create new workspaces? I'm trying to set up 'Project X' and it's not letting me.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "How do I begin a fresh project for my new client, 'Global Innovations', and add them as guests?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I'm trying to launch our Q3 planning, but I don't see an option to make a new project from scratch. Where is it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Please direct me to the correct place to create a new project and assign team members.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "Where do I click to make a new project space? I\u2019m completely lost trying to get our 'Website Redesign' underway.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "New user, can't find the 'create project' button anywhere on my screen. Can you point me to it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Hi, I need to make a new project to track our upcoming deliverables. What are the steps involved in setting one up and inviting people?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "We're a small team of 4, how do I create a central workspace for 'Team Nebula' and get everyone added to it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I've been poking around for 15 minutes trying to create a project for 'Project Delta', but nothing seems to work.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I want to add some external collaborators to a new project. What's the best way to create it and get them invited?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Setting up a project for the first time on Meridian, what's the process for getting it initiated and inviting team members?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "What\u2019s the workflow for creating a new project from a template, and then inviting specific individuals to it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Trying to get our 'Internal Comms' project off the ground but the interface for creation is not obvious. Help.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Can you explain how to open a new project and then share it with my entire organization, 'Acme Corp'?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "How do I create a new project with my specific client, Jane Doe, included? My account is user@example.com.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Where is the \"New Project\" link located? I'm on the main dashboard but it's not jumping out at me.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "I'm trying to create a new project for 'Project Blue Sky' but keep getting stuck. Can someone assist me with the steps?", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "My account was just activated. How do I go about creating a workspace and then a project within it for my team?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "We need to create multiple new projects for different client engagements. Is there a quick way to create new projects and then add members?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "New to Meridian. How do I get a new project started and invite our project lead, Sarah, to collaborate?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I can\u2019t find the place to initiate a new project. Is there a specific menu item I should be looking for? This is taking too long.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Could you provide a step-by-step guide on creating a new team workspace and subsequently adding project-specific collaborators?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "How do I set up a new workspace called 'Operations Hub' and then invite everyone from the Operations department to it?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Seriously, how do I create a new project? This feels like it should be simpler. I need to get this done by EOD.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Hi support, I need to create a brand new project for 'Product Launch Q4' and then add about 10 team members. Can you guide me?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Is there a quick start guide for creating a project and adding my initial team members? I can't find it in the help center.", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I've logged in, but there's no clear option to \"start a project\" or \"create a workspace.\" Am I missing something fundamental?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "Setting up our first big project for 'Project Evergreen' and need to invite specific team members. What's the process?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "I want to create a private workspace for 'Sensitive Data Project' and then selectively add users. How is this done?", "true_intent": "create_project", "was_resolved_by_fin": true}
+{"text": "How do I create a project in Meridian and add my team members to it? It's not clear where to begin.", "true_intent": "create_project", "was_resolved_by_fin": false}
+{"text": "How do I set up a recurring task for weekly reports in Meridian?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I need to configure a workflow to automatically assign new 'Bug' tasks to the QA team, how do I do that?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Why is it so difficult to make a task repeat daily? I want 'Daily Standup Prep' to show up every morning!", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Can Meridian automate an approval process where tasks marked 'Ready for Review' go to Sarah for sign-off?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I'm trying to create a rule that notifies the project manager whenever a task moves from 'To Do' to 'In Progress', but I can't find the option.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "How to make things autamitcly happen when I check a box on a task, like assigning the next step?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Where's the automation studio? I need to build a custom rule for Project Delta's client onboarding tasks.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I need a task 'Monthly Invoice Review' to recur every first Monday of the month; what are the steps?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "This automation feature is really frustrating me; I just want tasks to create subtasks automatically when a new project starts.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Is it possible to set up an automation that sends a reminder notification if a task becomes overdue for 24 hours?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "How can I set up a standard set of project kickoff tasks to generate automatically when a new project is created?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I'm looking for a way to automate an escalation: if a task isn't completed 2 days before its due date, it needs to flag the manager.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "When Task A is completed, I want Task B to automatically become 'Ready to Start'; how do I configure this dependency automation?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Can Meridian send an automated 'Task Completed' notification to a specific client when their task is marked done in the portal?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I need to automatically notify #team-dev whenever a new task is created in the 'Feature Request' project, where do I set this up?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "If a task's due date is changed to tomorrow, I want it to automatically get an 'Urgent' tag. How do I achieve this in Meridian?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Upon completion of all subtasks, can the parent task automatically mark itself complete? This would save so much time.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I have a weekly checklist for 'Server Health Check' that needs to recur every Friday for the IT team; what\u2019s the best way to implement this?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I'm trying to create a template for 'New Employee Onboarding' tasks that automatically assigns roles and due dates, where is this feature?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Is it possible to have tasks trigger based on specific dates, not just status changes? Like 'every last day of the quarter'.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "For any task exceeding an estimated cost of $500, I need an automated approval step from accounting. Can this be set up?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I heard Meridian has 'Smart Rules' for workflows. Where do I find this option to configure my custom automations?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Honestly, why can't Meridian just auto-populate subtasks when I create a new parent task for 'Marketing Campaign'? This is standard.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Hey, just started using Meridian. Where are the automation settings? I'm trying to create a few rules but can't find the menu.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "What's the difference between task templates and automations? I want a task 'Review Design Mockups' to appear weekly, which one do I use?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Can Meridian automatically generate and email a weekly status report for Project X to stakeholders every Friday at 4 PM?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I need to set up a rule that when the tag 'Priority Client' is applied to any task, it automatically changes the assignee to Jane Doe.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I want to automatically create a follow-up task 'Schedule Debrief' only if a task 'Client Presentation' is marked 'Successful'. Is this possible?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I'm trying to build my first automation: assign any new 'Feedback' task to 'Product Team' and set its priority to 'Medium'. Guide please?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "My automation rule for 'Content Creation' to notify the editor when a draft moves to 'Ready for Review' stopped working. It was fine last week.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Are there advanced options for workflow branching? Like 'if condition A then do B, otherwise if condition C then do D'?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Can I set up an automation for a recurring event, like 'Quarterly Budget Review Prep', that creates specific tasks 10 days before the meeting?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "After a project is marked 'Complete', I want it to automatically archive after 60 days. Is there a way to configure this in Meridian?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I want to set up an automation to automatically delete tasks that are in 'Stalled' status for more than 120 days. Is this feature available?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I need to route specific tasks to different managers for approval based on their department custom field. Can Meridian handle this workflow?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Can I automate the assignment of resources based on task type or project category within Meridian, e.g., 'Design' tasks go to 'Creative'?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "How do I set up an automation to send a reminder to the assignee 2 days before a task in Project Beta is due?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "When a new task is created in the 'Support Tickets' project and its description contains 'urgent', I want it automatically tagged 'High Priority'.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "Does Meridian have a library of pre-built workflow templates I can import, or do I have to build every single automation from scratch?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "The UI for creating automations is really confusing. I'm trying to add a new 'task created' trigger but it's not saving properly. Help!", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "For every new 'Marketing Campaign', I need to create a specific checklist for 'Legal Review'. Can I automate this checklist generation?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I want to assign tasks dynamically based on who's available and has capacity. Is there an automation for this advanced scenario?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Where the heck are the rules to make things automatic? I keep searching for 'automation' or 'workflow' but nothing obvious shows up in the settings!", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Hey guys, can u tell me how to make tasks repeat monthly? I got 'team billing' task that needs to happen every first of the month.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I need to set up a recurring task 'Weekly Team Check-in' to happen every Monday at 10 AM, assigned to the whole team.", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "Can I configure Meridian to automatically move tasks from 'Pending' to 'In Progress' when their start date arrives?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "I'm getting lost in the automation settings; how do I create a new rule to change a task's status based on a custom field value?", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "My boss wants tasks with the 'Critical Bug' tag to automatically notify him immediately. How do I build that urgent notification workflow?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I need help creating a basic automation: when a task in 'Client X Onboarding' project is marked 'Welcome Call Completed', create a 'Follow-up Email' task due in 2 days.", "true_intent": "automations", "was_resolved_by_fin": false}
+{"text": "What's the secret to getting Meridian to automatically duplicate a task list every quarter for our QBR process?", "true_intent": "automations", "was_resolved_by_fin": true}
+{"text": "I added Sarah to the 'Website Redesign' project, but she says she can't see any of the tasks. What am I missing?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "Can you explain the differences between the 'Admin', 'Manager', and 'Member' roles? I'm finding the documentation a bit unclear.", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "How do I restrict viewing access for Project X to only specific team members? It seems everyone can see it right now.", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "My team member, John, can't access Project Falcon. I added him yesterday. Can you check permissions?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "What's the process for changing someone's permissions level on an existing project?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "Need to know why Project Mercury is visible to everyone in our organization. I thought it was private.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "User ID 56789 can't open Project Nimbus. Is there a permission issue on their account?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I'm trying to make a task private to only myself and one other user; how is this accomplished in Meridian?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "This is super frustrating, why can't I just remove a user from a project without deleting their whole account?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Alice can't see the new 'Client X Onboarding' project. I added her as an editor. What's up?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Could you detail the access levels for project creators vs. invited members?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "Why does Dave still have access to the 'Project Sunset' workspace when he left the team last week?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Is there a way to batch update user roles across multiple projects, or do I have to do it one by one?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "Project ID: PRJ-ALPHA-2023. User: Emily White. Emily can't see it. Help!", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I need to understand how the 'Read-Only' permission works on tasks.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "How do I prevent certain users from sharing projects they don't own?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I invited Mark to Project Genesis, but he says it's not showing up on his dashboard. Did I do something wrong?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "We're having issues with people seeing projects they shouldn't. Can you explain how to lock down project visibility more effectively?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "My boss needs 'Admin' privileges for the 'Annual Report' project, but I can't find the option to upgrade his role.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Why can my intern, Sarah, see all our confidential projects? This is a serious security flaw if I can't control it.", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "What's the difference in capabilities between a 'Guest' and a 'Limited Member' role?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I want to revoke editing rights for User Chris on Project Beta, just keep him as a viewer. How do I do that?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "User 'tech_support_guy' keeps showing up on Project Zephyr, but no one added him. How do I remove him permanently?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I'm trying to explain user roles to a new hire, can you give me a concise summary of each default role's permissions?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "i cant get jason to see the new project i made. its project id 789. whats going on? he's supposed to be an editor", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "How can I ensure only project owners can delete tasks within a project?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Why is it that when I share a project with \"org-wide view,\" it also shows up for external collaborators?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "My colleague Ben can't create new tasks in Project Delta, even though I made him an Editor. What setting am I missing?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I need to change the permission settings for Project Gamma, specifically giving user 'jdoe' full access.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Can you clarify how the \"inherited permissions\" work from workspaces down to projects and tasks?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "How do I remove user Alice from Project \"Budget Planning 2024\"? She shouldn't be seeing it anymore.", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I shared a project with 'everyone in our organization', but some users still say they don't have access.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I created a new team and added members, but they can't see the projects I've shared with that team.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "My project 'Sprint Planning Q2' (ID SPRINT-Q2-24) is somehow visible to people outside my department. I need to make this private ASAP.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "How do I create a project that only certain named individuals can view, not anyone else in the company?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I am having trouble understanding the 'Private to Project Members' vs. 'Org-Wide View' options for tasks.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "User Name: Samantha. Project: 'Marketing Campaign Launch'. Samantha says she can only view, but I need her to edit. How do I fix this?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Why do some projects appear under \"Shared with me\" for users who aren't explicitly added?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Can you provide a list of all permission types available in Meridian and what each one entails?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I accidentally made Project Infinity public. How do I instantly revert it to private access only for designated users?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "Bob keeps getting notified about tasks in Project Echo, but he's not supposed to be part of that project. Can you remove him from all notifications and access?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "My admin panel says I have full control, but I can't change permissions for Project Tango. Is there a super-admin level I don't know about?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "How do I configure a default permission setting for all *new* projects so they start off private?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "URGENT: User 'mike.t@example.com' has edit access to Project 'Confidential Merger Docs'. This must be removed IMMEDIATELY.", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I need a clear explanation of how roles assigned at the workspace level affect project and task permissions.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Why can't I invite external users to a specific project without them having access to the entire workspace?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I'm a project owner, but I can't see the option to add or remove members from my project 'Strategy 2025'. What's wrong?", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "Can you please tell me how to make sure that once a task is completed, it becomes read-only for everyone?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "I've set up a project, but it seems that even people not on the team list can see it. What is the actual setting to make it truly private?", "true_intent": "permissions", "was_resolved_by_fin": false}
+{"text": "So, I tried to give our new hire, Jessica, full access to everything in Project Chimera, but she's still getting 'permission denied' errors when she tries to add comments. Help me out here.", "true_intent": "permissions", "was_resolved_by_fin": true}
+{"text": "I'm having trouble connecting Meridian to our Slack workspace.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Can you assist me with the GitHub integration? It's not authorizing correctly.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Where do I go to set up the Google Drive integration? I can't seem to find it.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "My Slack notifications aren't coming through after I linked Meridian.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The GitHub integration won't complete setup; it just hangs.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Meridian isn't syncing with Google Drive. What should I check?", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I need help with integrations. The Slack setup guide is unclear.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "We want to integrate with GitHub, but I'm getting an 'access denied' error message.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Is there a problem with the Google Drive integration today? It's failing repeatedly.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The Meridian Slack app isn't pushing task updates to our designated channel #team-alpha.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "How do I troubleshoot a failed GitHub integration attempt for user John Smith?", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "My team can't get the Google Drive link to work. It shows an expired token.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Seriously frustrated with this Slack integration, it just doesn't work!", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The instructions for connecting GitHub are outdated, please update them.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I've tried to link Google Drive three times now and it keeps failing at the final step.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Getting an 'Error 401: Unauthorized' when trying to connect Meridian to our Slack.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I'm trying to integrate with GitHub for Project Nebula (ID: PN-2024-005) but it won't connect.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Where's the option to integrate Meridian with our Google Workspace?", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Slack integreation broke, fix plz.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "github linkin ain't workin.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Google Drive integration isn't allowing me to select specific folders.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "We need urgent help with setting up our Slack integration for new users.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "The GitHub integration for repository 'meridian-api-docs' is showing as disconnected.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I was hoping to link Meridian to Google Drive, but I'm having authentication problems.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "My Meridian account (user: alice.jones) is unable to finalize the Slack integration.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Tried connecting GitHub and it returned an empty page after authorization.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Why isn't the Google Drive integration working anymore? It was fine yesterday.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Can you help me set up notifications from Meridian into Slack channel #sprint-updates?", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I am experiencing difficulties configuring the GitHub integration for our organization.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The documentation for Google Drive integration is missing steps for shared drives.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "This slack connector is total garbage it just wont connect properly what gives.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "What are the known issues with the GitHub integration? I'm getting weird errors.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I'm trying to link my Google Drive but it keeps asking for permissions I already granted.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Need assistance: the Slack integration for Project Delta (ID: PD-2023-010) is not posting comments.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The GitHub integration setup failed at 10:30 AM PST today.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Is it possible to integrate Meridian with multiple Google Drive accounts? How?", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I'm having issues with the Meridian Slack bot. It won't respond to commands.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "The GitHub integration seems to be stuck in a pending state.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Our Google Drive integration disconnects randomly. It's becoming a major problem.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "My account, sara.perez@corp.com, can't initiate the Slack integration. Is there an admin setting I'm missing?", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Attempting to set up the GitHub integration for a private repo, but it's not listed.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "The Google Drive integration wizard just loops back to the beginning.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Can you tell me if the Slack integration supports thread replies for task comments?", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I am completely unable to link Meridian to our GitHub Enterprise server.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Why does the Google Drive integration ask for full drive access instead of specific folder access?", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "We can't get the Slack integration working for our Marketing team's channel.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "GitHub integration setup keeps timing out. My internet connection is fine.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "I need to connect Meridian to Google Drive for Project X, but the button is greyed out.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "Help! slack intgration wont let me select our primary workspace.", "true_intent": "integrations_setup", "was_resolved_by_fin": false}
+{"text": "Getting a \"configuration error\" when trying to activate the GitHub integration for user 'Mark T.' for 'Repo-123'.", "true_intent": "integrations_setup", "was_resolved_by_fin": true}
+{"text": "I need to adjust my email notification frequency for all projects within Meridian.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "How do I change my Meridian email alerts to a daily digest only instead of constant pings?", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "Can you please show me where to find the setting to get fewer emails from Meridian, like just a weekly summary?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My inbox is swamped; how can I consolidate all my Meridian updates into one email per day, or ideally just two a week?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Could you help me set my notification preferences so I only get notified for items where I'm directly assigned or mentioned?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I'd like to change my notification settings to receive updates only for critical tasks, not every single comment or minor change.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Is there a way to receive a single, consolidated notification email each morning instead of individual alerts throughout the day?", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "I keep getting pings for every minor change; how can I switch to a less frequent notification schedule like just an end-of-day summary?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Need to drastically cut down on Meridian emails, specifically seeking a weekly summary option if available for all projects.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My current email frequency for Meridian is overwhelming, I want to change it to monthly or even off completely for most updates.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "How do I mute notifications for Project 'Beta Migration' as I'm no longer actively involved?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Please stop sending me emails about Project X, I'm not on that team anymore and the updates are irrelevant.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I want to turn off all alerts related to the \"Marketing Campaign Q3\" project, it's really overwhelming my inbox.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Can you disable all notifications for the 'Client Onboarding' project for user Jane Doe, she\u2019s taking a break from it.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I need to completely silence notifications for Project ID MER-PROJ-789, it\u2019s not relevant to my current role.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "How do I stop getting emails about Project 'Phoenix Relaunch' without leaving the project entirely, I just want to observe in-app.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I'm receiving updates for a project I'm observing but not actively contributing to; is there a way to mute its notifications temporarily?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "For Project 'Internal Tools V2', please mute all my notifications as I'm just an observer there and don't need constant updates.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I'm on vacation next week; can you mute all notifications for 'Project Evergreen' for me until I return on August 15th?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "There's a lot of chatter on the 'Team Building Event' project; how do I temporarily mute its email notifications only?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I'm not receiving any notifications at all, even for direct mentions or tasks assigned to me; is something broken?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Meridian isn't sending me email updates for tasks I'm assigned to in 'Project Mercury', it's been happening for days.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My notifications seem to have stopped working since the update last Tuesday; I'm missing critical alerts and deadlines.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Why am I not getting any notifications when someone comments on my tasks, especially important ones?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I was supposed to get an alert for Task #MER-303-A when it was completed, but nothing came through, what happened?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Notifications for user 'John Smith' are completely broken; he's not getting anything, please investigate this urgently.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "I'm not getting any pop-up notifications or emails for new tasks assigned to me; is there a system issue or a setting I'm missing?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My email notifications for 'Project Gemini' have suddenly stopped arriving since yesterday morning, I used to get them constantly.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I haven't received a single notification email from Meridian in days, not even for direct @mentions, please help.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "Notifications are not firing for overdue tasks in 'Project Delta' for my team, is there a setting I missed or is it a bug?", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "Hey, my nottifications are totally off for Project 'Deep Dive', like I'm missing everything, can you check it out for me pls?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I'm getting absolutely spammed by Meridian emails; I need to change my global settings to a single daily digest ASAP.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Need to mute Project \"Q4 Planning\" for user Alex Chen, effective immediately, he's overwhelmed.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Why am I not getting alerts for comments on my tasks anymore? This is super frustrating for tracking progress.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "My notification frequency is completely wrong; I'm trying to get only weekly updates but still getting daily ones.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "The system isn't sending me notifications for new assignments in 'Project Zenith' anymore, and it's been like this since last week.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "Can you adjust my email preferences to only receive instant notifications for direct @mentions and nothing else from Meridian?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Meridian's notifications are broken for me, specifically for overdue tasks on the 'Compliance Review' project, ID CR-2023.", "true_intent": "notifications", "was_resolved_by_fin": false}
+{"text": "I've tried changing my email notification settings a few times, but they don't seem to be sticking; I want a weekly digest, not daily.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I am no longer receiving notifications for new tasks or subtasks created in Project 'Apollo'; please investigate this critical issue.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Where do I go to completely disable email notifications for the \"Holiday Party Planning\" project, I just want in-app alerts?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My Meridian notifications are totally out of whack; I'm not getting anything for Project X but getting too much for Project Y.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Fix my notifications please, I'm missing deadlines because Meridian isn't telling me things when they happen.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I need to mute all activity for Project 'Client Proposal Revision' until next Monday, July 15th, for my account.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I've been missing notifications about due dates for tasks assigned to me in 'Project Lighthouse' and it's causing delays for my team.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Help, I can't find the setting to change my email notification frequency from real-time to daily; where is it hidden?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "I want to completely turn off all email notifications for Meridian, but still see updates within the app for all my projects.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Why did my daily digest stop working? I haven't received one since June 1st, and now I'm missing important updates.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My preferences are set for instant notifications, but I'm getting significant delays or no alerts at all for comments on Task MER-456.", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "Could you please review my notification settings for Project 'Spring Clean' and ensure I only receive updates when someone assigns me a task or comments directly on my items?", "true_intent": "notifications", "was_resolved_by_fin": true}
+{"text": "My Meridian app crashes every time I try to open it on my iPhone 14.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The Android app for Meridian isn't syncing my tasks correctly; they show up on desktop but not my phone.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "I'm experiencing constant freezing with the Meridian mobile app, especially when viewing the project timeline.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "Can't log in to the iOS app; it just hangs on the loading screen indefinitely.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The 'Add New Task' button is completely missing from the Meridian app on my Samsung Galaxy.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Seriously, your mobile app is a joke! It just froze again when I tried to update Project Alpha. This is unacceptable.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "Why is the 'resource allocation' feature not available on the Meridian app for my tablet?", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "My phone app keeps logging me out spontaneously, requiring me to re-enter credentials every time.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I found a bug where the comments section in the iOS app won't let me type anything.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "The Meridian app just crashed again when I treid to log a comment on Project Alpha.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Could you please assist? The Meridian Android app isn't loading projects correctly since the last update on Sept 1st.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "I'm unable to upload attachments from my iPhone using the Meridian app; the icon is greyed out.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "This is ridiculous, I can't get anything done on my phone because the Meridian app keeps shutting down.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The app on my Google Pixel 6 keeps displaying an old version of my task list, not the current one.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "I noticed the 'Sub-task' creation option is missing from the Meridian mobile app version 1.7.3 on Android.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "My account, under the email s.patel@example.com, is showing an empty task list on the iOS app despite having multiple active tasks on the web version since August 27th.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The Meridian app just crashes every time I try to add a new comment to task #45678.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Where's the 'mark as complete' option in the latest iOS app update? I can't find it anywhere when I open a task.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "The notification settings are broken in the Android app; I'm not getting any alerts for tasks assigned to me.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "I keep getting a 'network error' message on the iOS app even though my internet connection is perfectly stable.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The mobile app is super slow and unresponsive, it takes ages to load anything, making it nearly unusable on my phone.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I can't view team member availability in the Meridian app on my tablet, which is a key feature for our team.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "This mobile app is driving me crazy! It crashed when I tried to assign a task to Ben Carter from the sales team.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "My Meridian app just vanished from my home screen after updating, very strange and frustrating.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "Why does the 'dark mode' feature only work on the web version, not the mobile app? My eyes are suffering at night.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The app keeps freezing when I try to scroll through long task lists on my iPhone 13; it's happened thrice today.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I can't log into the Android app; it says \"invalid credentials\" even though they work perfectly fine on the desktop version.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The Meridian app is missing the ability to filter tasks by custom fields on my Android phone, which is a huge workflow blocker.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "I'm having an issue where the app logs me out randomly on my iPad Pro, even in the middle of editing a task.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "This bug is seriously impacting my productivity: the Meridian app just force closed trying to edit task \"Website Redesign - Copy Review\" for Alex Nguyen. It happened like three times this morning, makes it impossible to get anything done on the go.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Could you please check why my Meridian app on iOS isn't displaying images in tasks? They just show up as broken links.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "My app for Meridian is constantly lagging, making it almost unusable on my old iPhone SE, seriously impacting my ability to work remotely.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The Android app updated yesterday (Sept 5th) and now it crashes instantly upon opening, completely unusable.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I noticed that the \"dependency linking\" feature is totally absent from the mobile app version, which we rely on heavily.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "The Meridian app on my smartphone keeps showing old data, not the most recent changes that I've made on my desktop.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I've reinstalled the app multiple times, but it still won't load Project 'Client Onboarding - Q4' on my Android device.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "There's a weird graphical glitch in the iOS app when I view the calendar, the colors are all wrong and overlapping.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Your mobile app is completely unuseable; it crashes every two minutes. This needs fixing ASAP, it's impacting our deadlines.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The 'export to PDF' option is missing from the Meridian app on my phone, making it hard to share reports quickly.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I can't seem to mark sub-tasks as complete within the mobile app interface; the option simply isn't there.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "The app on my iPhone shows an empty project list, but I have many active projects on the web interface.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "My notifications aren't clearing properly in the Meridian app on my Android device, making it look like I have unread alerts.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "I'm having trouble with the mobile app's search function; it never finds anything even with exact keywords.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "Why does the app not allow me to adjust task priority on my mobile phone? This is a really importent feature.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "My Meridian iOS app is draining my battery super fast, noticed it since the last update a few days ago.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "The mobile app isn't showing notifications for tasks assigned by Sarah Johnson from marketing.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "This is a mess, the app keeps crashing on my tablet when I'm in the middle of an update for Project M-123.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "My task details page in the Meridian Android app is completely blank after tapping on a task, very frustrating.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "The app for Meridian on my iPhone keeps saying \"no internet connection\" when I clearly have one and all other apps work.", "true_intent": "mobile_app", "was_resolved_by_fin": false}
+{"text": "Your app updated and now I can't even see my project roadmap view, it's just gone from the menu entirely.", "true_intent": "mobile_app", "was_resolved_by_fin": true}
+{"text": "We're looking to cancel our subscription, it's just not meeting our team's needs anymore.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'm really frusterated with the constant notifications; it's making us consider other options.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Can you please tell me how to cancel my account? The project management features aren't robust enough.", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "Our team is seriously thinking about switching to Asana, Meridian just feels too slow sometimes.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'd like to explore our options for terminating service, the cost-benefit isn't adding up for us lately.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Is there a way to make the Gantt charts actually useful, or should I just start looking at Monday.com?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I need to cancel the account for Project Alpha, user ID 45678, we're finding it too difficult to onboard new team members.", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "This platform is becoming a major headache; I\u2019m ready to pull the plug if things don't improve.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "My team is fed up with the reporting features, or lack thereof. What's the process to cancel before our next billing cycle on 10/15?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We're not seeing the value we expected from Meridian; how do we proceed with cancellation?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Frankly, the recent updates have made the UI clunky and difficult to navigate, making us reconsider our entire PM tool strategy.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I've tried to get my team to adopt Meridian for months, but they keep reverting to spreadsheets; it's not working out.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We're a small startup, and the pricing structure just doesn't make sense for us anymore; can we cancel our current plan?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "My invoice for June 2024 seems off, and honstly, the whole experience has been kinda disappointing so far.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "This recurring bug with task dependencies is driving me absolutely insane, if it's not fixed this week, we're canceling.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Can you walk me through the cancellation process? We\u2019re finding it hard to justify the cost for the features we actually use.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'm exploring competitor platforms like ClickUp because Meridian's integration with our CRM is virtually non-existent.", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "We're thinking of canceling our subscription, the lack of real-time collaboration features is becoming a major blocker.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Hey, how do I end my subscription? My team thinks it's too complicated and wants something simpler.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I need to cancel my account, ID MER-ACCT-9988. We've decided to go with a different solution that better fits our workflow.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "The performance has been really sluggish lately, making me question if we should continue with Meridian.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We\u2019ve noticed a significant increase in our monthly bill, and we\u2019re not sure we\u2019re getting value for money. How do we cancel?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'm having trouble with the file attachments, and honestly, this is just one of many issues that's making us consider moving on.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We're not using Meridian as much as we thought we would; what are the steps to cancel before auto-renewal on 11/01?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "My project manager, Sarah, is really unhappy with the project overview dashboard; what are our options for cancellation?", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "This is the third time this week I've had issues accessing shared files. We're seriously looking at other options now.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "The pricing for extra users is just too high for our growing team; we might have to cancel.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I just want to cancel this. It's not working for us.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We need to cancel our enterprise account. We've found a more specialized tool for our niche.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "The mobile app is basically unusable, making us consider alternatives like Wrike.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "How can I cancel my subscription? My team is complaining about the learning curve being too steep.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'm really unhappy with the support response times. If this is how it's going to be, we'll cancel.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Can you tell me how to downgrade or cancel completely? We're not utilizing most features and it feels like a waste.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Our project, \"Phoenix Initiative,\" has stalled, and honestly, Meridian isn't helping us get organized.", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "We\u2019re thinking about canceling; the new reporting dashboard is incredibly confusing.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I just need to cancel our plan. It's not fitting our team's agile workflow at all.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "How do I turn off recurring payments and cancel my account? The platform is just not intuitive for our creative team.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Our trial for Meridian is ending, and we've decided it's not a good fit for our company culture. We won't be converting.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We\u2019re actively reviewing other PM tools because Meridian lacks critical integrations with our existing software stack.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I keep getting signed out, and it's making me want to throw my computer. Can I just cancel my subscription already?", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "What's the process for canceling my subscription for Account ID: MER-PROD-2023? Our budget got cut.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "We're struggling with project visibility across different departments using Meridian; are we able to cancel our contract?", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "The collaborative whiteboard feature we were promised still isn't here, so we're looking to cancel our subscription.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Hi, can you help me cancel my account? Our team finds the interface too busy and overwhelming.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I need to cancel my subscription ASAP. This is not working for our remote team.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Considering a switch to Trello; Meridian's task management is just too rigid for us.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "How do I completely close my account? We've decided to pivot away from a dedicated PM tool for now.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Our team is experiencing too many technical glitches, so we're ready to cancel our Meridian plan.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "I'm emailing to inquire about terminating our service, as we feel the feature set is no longer competitive.", "true_intent": "cancellation_retention", "was_resolved_by_fin": true}
+{"text": "This is the last straw: if the export function for reports isn't fixed today, consider our subscription canceled.", "true_intent": "cancellation_retention", "was_resolved_by_fin": false}
+{"text": "Could you please provide an update on the MSA for Global Solutions, initiated last week?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "Our legal department needs to review your standard MSA; please forward the latest version to us by end of day.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're looking into enterprise pricing for roughly 750 seats; can someone connect with our procurement team to discuss options?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Please provide the security questionnaire required for new vendor onboarding; our internal deadline is fast approaching.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "I submitted a request for custom pricing on Tuesday, reference #MER-4567, but haven't heard back yet; what's the typical turnaround?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "The contract for Horizon Corp needs urgent review; our CEO is asking for progress and we seem to be stuck on legal terms.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We require a copy of your SOC 2 report for our compliance audit, along with any other relevant security certifications.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Can you confirm the terms for our upcoming renewal on account MER-0123 for North Star Solutions?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Seriously, where is the redlined contract we talked about last week? This is getting ridiculous, our internal project is totally blocked.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "We need to discuss payment terms for an enterprise license; the standard options don't quite fit our corporate policy.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Is there a dedicated contact for enterprise agreements at Meridian, or do I just send everything through the general support portal?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Our purchasing department needs to finalize the contract for our 500-user rollout; who can help expedite this process?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Pls send over the latest MSA for review, our lawyers R waiting on it.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Need to confirm if Meridian meets ISO 27001 compliance standards for our vendor risk assessment.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're considering a significant expansion to our Meridian usage and would like to explore custom enterprise pricing for 2000+ users.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "The legal team at Dynaco Global has some amendments to the proposed MSA; please reach out to Sarah Chen at sarah.chen@dynacoglobal.com to discuss.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "I'm trying to get a security questionnaire filled out for our Q3 vendor review, but the form on your website seems incomplete.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Any update on the contract discussion for Project Nimbus? Our internal stakeholders are getting impatient.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We require your standard vendor security packet including data privacy policies and incident response procedures.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "The current pricing structure isn't working for our multi-departmental deployment; we need a more flexible enterprise model.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Who do I speak to regarding a potential partnership and custom agreement for white-labeling Meridian features?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Our internal procurement system demands specific documentation for Meridian's onboarding as a Tier 1 vendor; can you assist?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "The renewal for our enterprise account (MER-5678) is approaching, and we need to negotiate new terms due to usage changes.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Just following up on the MSA for Project Orion, initiated a month ago; it's critical we get this finalized ASAP.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "We need to understand Meridian's data residency options for our European operations before signing any contract.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Can you send me the latest version of your standard terms and conditions for enterprise customers?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "There are some non-standard clauses our legal team needs inserted into the MSA; is this something you can accommodate?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're looking to sign up for an enterprise plan but the website doesn't offer a direct path to custom quotes for large organizations.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "I need to get Meridian approved as a vendor by June 30th; can someone fast-track our security questionnaire and contract review?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "The last security assessment from Meridian expired; we need an updated one for our annual compliance review.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Procurement needs to discuss potential volume discounts for a 1,000-seat license purchase, our budget cycle closes next week.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Why is the contract taking so long? This is getting ridiculous; every other vendor we're evaluating has been much quicker with their legal team.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Hi, I'm trying to get ahold of someone to talk about enterprise licensing for our company, \"GlobalTech Solutions,\" but I keep getting routed to sales.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We need a revised MSA reflecting the changes we discussed last Friday, please send it over today.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "What is the process for submitting a custom security addendum to the Meridian contract?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Our legal counsel has reviewed the MSA and has several questions regarding indemnification and data processing.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're seeking an enterprise solution and need detailed pricing tiers for different user counts, beyond what's on your public site.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Can you send the updated vendor security packet for the MegaCorp contract, please, for our records?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "The current contract terms don't align with our internal procurement policies; we need a custom agreement.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We need to renew our contract (MER-9876) but require a 15% discount for a three-year commitment; is this possible?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Please connect our legal team with yours to finalize the outstanding items on the enterprise contract.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're conducting due diligence and require full transparency regarding Meridian's sub-processors and their locations.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "The pricing structure for large teams isn't clear; we need a direct quote for 600 users with premium support.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Any progress on the security assessment for project Titan? Our infosec team needs to sign off before we can proceed.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": true}
+{"text": "Who do I contact to get a copy of your Business Associate Agreement (BAA) for HIPAA compliance purposes?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Our legal team is asking about the data retention policies outlined in your MSA; could you provide more detail or a dedicated contact?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We're experiencing delays with our procurement approval due to outstanding security questions on Meridian's side.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Can you provide a detailed breakdown of the enterprise features included in your custom pricing tiers?", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "We've been waiting for weeks for a simple contract amendment; this is completely unacceptable and delaying our entire launch schedule.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Hi, my name is Alex from Zenith Innovations, we're looking to migrate our entire organization to Meridian and need to discuss a comprehensive enterprise agreement, including custom features and support.", "true_intent": "enterprise_procurement", "was_resolved_by_fin": false}
+{"text": "Can you export all data related to user ID 12345 for our compliance audit?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "I need to get a copy of all our company data from Meridian, ASAP. What's teh process?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "Please delete all data associated with John Doe, email john.doe@example.com, effective immediately per his request.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Where can I find your latest DPA for our legal team to review? Its kinda urgent.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Is Meridian fully GDPR compliant? Wer'e conducting an internal audit and need some docs.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Hi, we have a data subject access request for Jane Smith. How do we get an export of all her personal data? This needs to be done quickly.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need to export all project data from the \"Q3 Marketing Campaign\" project, ID: PROJECT-9876, by end of day Friday. Is that even possible?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "I am trying to find a way to export all our team's tasks and comments. The built-in export seems really limited. Can you help me out here?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need to sign a DPA with Meridian. Could you please send us the current version and instructions on how to execute it, like, today?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "This is urgent. A former employee, Mark T. Smith, requires all his data to be deleted from our account. Please confirm this has been actioned, stat.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "How does Meridian handle data retention once a subscription is cancelled? Do you delete everything automatically or does it just sit there?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I'm having trouble exporting the data for a user named Sarah Connor. The export function just keeps giving me an error 500 when I try. Can you look into this for us?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We're getting audited and need proof of our data processing agreements with all vendors. Please send me a copy of Meridian's DPA right away, like, no kidding.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "What are Meridian's policies regarding data portability? We might need to move our data to another platform soon and need to understand the implications.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "Could you provide a comprehensive export of all data linked to account #MERIDIANORG-5678, including attachments and comments, for an internal review? It's for legal.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I just want to make sure our data is secure and that you guys are following all the GDPR rules. Can you give me some basic info on that? I'm worried.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I need to get all data related to our company's usage for the past year for a legal inquiry. Can you facilitate this, and what's the timeline?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Where are your data centers located? We have specific requirements for data residency for our clients.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "We require a full deletion of all data pertaining to our organization upon termination of service. Can you outline your process for this, including timelines?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "There's a request to delete all personal data for user \"P. Gupta\" from our Meridian workspace. Please action this ASAP and confirm when it's done.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We are preparing for a potential data subject access request; what is the quickest way to pull all user data from Meridian if needed in an emergency?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I'm trying to export our project list but it only gives me a CSV with basic info. I need the full details, including all tasks and subtasks. How do I actually do that?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Can you confirm Meridian's compliance with CCPA? Do you have documentation available that we can share with our legal team?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We have a legal obligation to provide a data export for a former client. Their account ID is CLIENT-XYZ. Can you prepare this for us, and what will the format be?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need to obtain a data processing agreement with you guys, as a matter of urgency for our new compliance policy. Please tell us how to proceed.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I'm concerned about our data privacy. Can you assure me Meridian is adhering to all relevant data protection regulations? What proof can you provide?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need an export of all user activity logs for account MERIDIAN-CORP-001 from January 1st, 2023, to present. This is for an internal investigation.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We want to delete all data related to a specific project after its completion. Is there a self-service option, or do we need your help to purge it completely?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I can't find the option to request a full data export in our admin settings, it's really frustrating. Is this something support needs to do for us?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "We are currently updating our vendor contracts and need to ensure Meridian's DPA is up-to-date. Please forward it to me immediately.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "Could you explain Meridian's policy on personal data deletion for inactive user accounts? Does it happen automatically after a certain period?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "What exactly is included in a data export for an entire workspace? Does it capture absolutely everything, like file attachments and conversation threads?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "I need to make sure that once we delete a user, all their associated data, including comments and files, is permanently removed from your servers. Is this guaranteed?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "We've received a request for data deletion for \"alice.jones@acme.com\" by end of month. Please handle this per GDPR guidelines and confirm completion.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "How do we retrieve all data associated with our enterprise account, including historical data, for an extensive internal audit? We need everything.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "Your documentation on GDPR compliance is a bit vague and doesn't answer our specific questions. Can you point me to a more detailed resource or a contact person who understands our concerns?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need an export of all tasks assigned to \"Sales Team\" within the last fiscal year, say from 07/01/2023 to 06/30/2024. Can you help us generate this report?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "What security measures does Meridian have in place to protect our data, especially regarding third-party access and encryption?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Our legal department needs a copy of your standard DPA right away for review. Where can I quickly download it or could you email it?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": true}
+{"text": "We need to delete all data for our workspace associated with the trial period, as we're not moving forward with Meridian. Can this be done easily, or do we need help?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Can you help me export all comments from a specific task? The current export doesn't seem to include them, and I really need them. Task ID is TSK-789.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We've had a data breach at our end, and for auditing purposes, we need a complete export of our Meridian usage data from the last 3 months, immediately please.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Please provide us with Meridian's official Data Processing Addendum and any associated FAQs. Our legal counsel requires this documentation.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We are conducting a review of our data processors. Please confirm your status as a data processor and outline your responsibilities under GDPR and CCPA.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "My boss asked me to get all the data out of Meridian for our account number MERIDIAN-ACCOUNT-007 as soon as humanly possible. It's a top priority for him.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I need to permanently remove all project data from the \"Legacy Projects\" section. How can I ensure absolutely no trace remains of those old tasks and files?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We need to perform a full data export for user 'Emily Chen' as part of an offboarding process. What's the best and most complete way to do this?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "Can you advise on Meridian's procedures for responding to data subject requests under various data protection laws globally?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I tried to export data but it's taking forever and looks like it's stuck at 50%. Can you check on export job ID #EXP-4567 for our account, please?", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "We require documentation detailing Meridian's data security protocols, encryption methods, and compliance certifications like ISO 27001.", "true_intent": "gdpr_compliance", "was_resolved_by_fin": false}
+{"text": "I'm experiencing an issue where task comments disappear after refreshing the page, details and screen recording attached.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The drag-and-drop functionality for reordering tasks in list view seems completely broken for Project Mercury.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Urgent: My entire team is unable to upload files to any task in Workspace ID 789; it just hangs indefinitely.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Found a bug: When I try to set a custom field to 'Date' for Project 'Spring Initiative', it reverts to 'Text' after saving.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Tasks assigned to 'Alex Chen' are showing as unassigned in the team calendar view, even though they're correctly assigned in the task details.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Reporting a critical defect where if I duplicate a project with dependencies, all duplicated task dependencies are lost.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The Gantt chart isn't displaying correctly on my second monitor; bars are overlapping and unreadable, reproduction steps included.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I can't save any changes to my project plan for 'Q2 Product Rollout', it just keeps giving a generic 'server error' message.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Hey, there's a problem with recurrin tasks; they're duplicating themselves every hour instead of every day.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Meridian crashed repeatedly when I tried to generate the \"Team Productivity Report\" for last week, error log attached.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The search bar isn't finding tasks by ID anymore, even exact matches like \"TSK-00123\" yield no results.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Notifications for mentions are not working for user 'maria.g' \u2013 she's not getting pings when I @ her in comments.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "If I change a task's status from 'In Progress' to 'Done' on the mobile app, it sometimes stays 'In Progress' on desktop.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "My custom dashboard widget for 'Overdue Tasks' is showing incorrect numbers, it seems to be including archived projects.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "There's a persistent UI glitch where the sidebar navigation flickers constantly when I hover over it.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I followed the steps in your help article to import tasks from a CSV, but only the first 10 rows imported successfully.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The time tracking feature is deducting hours incorrectly; for example, 2.5 hours logged appears as 0.5 hours.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "On Project 'Client Onboarding V2', I noticed that if I delete a subtask, its parent task's completion percentage doesn't update.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "My team members cannot edit tasks I assign them in Project ID 54321, despite having editor permissions.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I've attached screenshots showing how the 'Project Budget' field resets to zero every time I refresh the page.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The \"Export to PDF\" option for the project brief isn't working; it produces a blank document.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Meridian just deleted all task descriptions for Project 'Website Redesign' when I tried to edit one. This is unacceptable.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I'm having trouble with milestone dates; they randomly shift forward by a day when I open the project plan again.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "There's an issue with filtering tasks by assignee; if I select 'No Assignee', it still shows tasks with assignees.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "This app keeps logging me out spontaneously, like every 15 minutes, even when I check 'Remember Me'.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Steps to reproduce: create a new project, add 5 tasks, try to delete the project - it says \"Project in use\" when it's empty.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The project overview page isn't loading for Project 'Internal Wiki Upgrade' \u2013 it just spins.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "My recurring task \"Weekly Sync\" for 'Q4 Planning' suddenly stopped generating new instances after October 30th.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "I've captured console errors where the rich text editor for task descriptions sometimes loses formatting on save.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The \"Share Project\" link generates a 404 error when accessed by external users, despite permissions being correct.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "When I try to create a new task list within Project 'HR Initiatives', the 'Add List' button does nothing.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The 'Activity Log' for tasks isn't showing all changes, specifically, it's missing updates to custom fields.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "There's a bug preventing me from adding more than three subtasks to any given task, it errors out on the fourth.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "My calendar sync with Outlook stopped working yesterday; no Meridian tasks are showing up anymore.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "I noticed a glitch where if I complete a task that's part of a dependency chain, the next dependent task doesn't activate.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Please investigate: the 'attachments' section for task ID 98765 shows a count of 3 but no actual files.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The performance of Meridian has been terrible today; pages take ages to load, especially project dashboards.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Found a weird one: if I assign a task to 'Support Team A', then remove 'Support Team A', the task becomes invisible.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "The project template 'Agile Sprint' isn't creating all pre-defined tasks when applied to a new project.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "My notifications for 'due date reminders' are firing at midnight UTC instead of my local timezone (PST).", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "When trying to move task 'Complete Report' from Project X to Project Y, I get a generic 'permission denied' message, but I'm an admin.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I'm finding that setting task priorities (High, Medium, Low) doesn't sort tasks correctly in any view.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "If I edit a custom field dropdown value, old tasks using that value don't update to the new label, they just show the old one.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "This is kinda annoying, but when I try to copy a task URL, it sometimes copies the project URL instead.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The dark mode feature is buggy; some elements remain white, especially in the settings panel.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Could you check why the burndown chart for Sprint 7 is showing negative values? That's definitely wrong.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I've attached a video demonstrating how to reproduce the error where changing task parent breaks the due date.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "The 'Mentions' tab in my inbox is empty, even though I know I've been tagged in several comments today.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "I acidentally deleted a task with subtasks, and now its subtasks are just floating out there, like, inaccessible, really messed up my project structure, pleae fix.", "true_intent": "bug_reports", "was_resolved_by_fin": false}
+{"text": "Why is the 'add new comment' box disappearing after I type a few words sometimes? It's really frustrating.", "true_intent": "bug_reports", "was_resolved_by_fin": true}
+{"text": "Just wanted to say thanks, Meridian has really streamlined our team's workflow, especially the Gantt charts, which are far more intuitive than what we used previously and help us visualize dependencies much better.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Your latest update on May 15th was fantastic, the new reporting dashboard is a game-changer for our quarterly reviews, providing insights we struggled to gather before without extensive manual effort.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "Hey, appreciate the quick response from Sarah on ticket #MERIDIAN-7890 last week; she really helped us figure out the custom fields that were giving us trouble.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "This tool is awesome! Much better than Asana ever was for us, luv it so much.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Could you guys consider adding a dark mode? My eyes would be so grateful, especially during late-night sprints, it's a real strain sometimes.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "Meridian has been a lifesaver for our project \"Phoenix Rising\" \u2013 the task dependencies are incredibly intuitive and keep everyone on track.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Just gotta say, the onboarding process for new users is super smooth, great job there; we've had no complaints from recent hires.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "My team loves the new integrations with Slack, it's made communication so much easier and cut down on email clutter.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Thx for fixing that bug with the recurring tasks, it was driving me nuts but now it's perfect, u guys rock!", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "We've been using Meridian for 3 months now, and honestly, productivity is up 20% across the board. Huge win for Project Chimera.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Feature idea: it'd be cool if we could have a personal \"to-do\" list that syncs but isn't tied to a specific project. Wud be v useful for individual task management.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "I'm really impressed with how fast tasks load now; was a bit slow a few months ago but it's much better and smoother to navigate.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Fantastic software, genuinely helps keep our scattered team cohesive and informed. Kudos to the dev team for a stellar product.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "A small suggestion: a \"duplicate project\" option with configurable elements would save so much setup time for similar initiatives we run annually.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Huge fan of the new calendar view, it's so much clearer and easier to manage deadlines than the old one.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "The customer support I received from David on Monday regarding my sync issue was exceptional \u2013 please pass on my thanks, he went above and beyond.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "Honestly, Meridian has revolutionized how our small agency manages client projects; we're so much more efficient and transparent with clients now.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Any plans for a more robust time-tracking feature directly integrated into tasks, maybe with approval workflows? That would be epic.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "We've just rolled out Meridian company-wide, and the feedback has been overwhelmingly positive, even from our most resistant team members. Thanks!", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Really love the drag-and-drop functionality; it's so intuitive, even for our less tech-savvy team members, which is a huge plus.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "This might be a niche request, but could we get better export options for sub-tasks to Excel, specifically with their parent task context?", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Props to your team for the constant improvements; it feels like Meridian gets better every month, always something new and useful.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "The ability to customize dashboards is superb, really helps tailor the experience for different departments and their specific needs.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Just wanted to express gratitude for making such a robust yet user-friendly tool. We rely on it daily for managing multiple complex client projects and couldn't imagine going back to our old system.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "My only minor complaint is that sometimes the notifications can be a bit overwhelming, but overall, it's a stellar product and we're very happy.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Thanks for Meridian, it's a huge upgrade from the clunky software we were using previously, which caused so much headache.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Feature request: would love to see a native desktop app for Mac, the browser tab gets lost sometimes and it's a bit annoying when jumping between apps.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "Been using Meridian since January 2023, and it's become indispensable for our team's project management. Great job with the consistent updates.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "The quick filters are fantastic, but a 'save custom filter' option would be next-level amazing for recurring searches.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "The collaborative editing on project descriptions is surprisingly useful; didn't think we'd use it much but it's great for team input.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Great product overall. Could use a few more integrations, maybe with specific CRM tools like Salesforce or HubSpot to streamline our sales process.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Just wanted to say how much we appreciate the recent performance boosts, everything feels snappier and tasks load almost instantly now.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Your tutorials and knowledge base are genuinely helpful, unlike most software docs out there; they actually solve our problems quickly.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "We had a really tricky integration issue with our internal HR system, but your support team (especially Lisa) was incredibly patient and persistent, eventually solving it after several tries. Her dedication on ticket MERIDIAN-9123 truly saved our rollout.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Love the clean UI, it makes navigating complex projects much less intimidating, especially for new team members.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Any chance of an offline mode for viewing tasks when internet access is spotty, like when we're on site visits?", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Seriously, Meridian makes project management almost enjoyable. Keep up the amazing work, you've got a loyal customer here!", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "The new guest access feature for clients is a total game-changer; we've received great feedback on it, makes client collaboration so much smoother.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "We've used many tools, but Meridian's resource allocation view is by far the best we've encountered, super clear and actionable.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Just dropping in to say thank you for creating a tool that actually understands how teams work and delivers on its promises.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Minor bug: sometimes when I copy a task, the assignee doesn't carry over, but it's not a deal-breaker, just a lil annoying to fix manually.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "Could we get a more visual way to track budget vs. actuals within projects? The current reports are a bit dense and hard to interpret quickly.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "My team, Team Alpha, is totally crushing it with Meridian; the visibility it provides is priceless and keeps everyone aligned.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Thanks for continuously improving Meridian, every update seems to bring something genuinely useful and not just fluff.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "It would be awesome if there was a way to automatically archive projects after a certain completion date to keep our dashboards tidy.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "The ability to embed external documents directly into tasks is such a brilliant feature, thank you; it keeps everything organized in one place.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "We're very happy with Meridian, it\u2019s been a significant upgrade for our operations since we switched on 2024-01-01, couldn't be more pleased.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Just wanted to give a shout-out for the mobile app, it's incredibly well-designed and stable, making updates on the go super easy.", "true_intent": "praise_feedback", "was_resolved_by_fin": false}
+{"text": "I've been a user for ages and Meridian keeps getting better, please don't stop innovating; your team is doing fantastic work!", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "Suggestion: a clearer indicator for overdue sub-tasks within a main task would be helpful, thanks; they sometimes get lost in the shuffle.", "true_intent": "praise_feedback", "was_resolved_by_fin": true}
+{"text": "How do I change a task's status from \"In Progress\" to \"Completed\" in the List View for Project X?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Can someone please tell me the quick key to toggle between the Board and Calendar views?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I need to add a new team member, Leo Chen, to Project Alpha 2.0 and assign them a task; what are the steps to do that?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "What's the best way to sort my tasks by due date descending in the main dashboard view?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "I keep getting notifications for Project X but I only want to see updates for Project Y. Where do I change those settings?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do you apply a filter to show only tasks assigned to 'me' that are overdue? I'm having trouble with the filter panel.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Trying to link a Google Drive file to a task named \"Draft Report\". The attachment button isn't working as expected.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I'm confused about subtasks. How do I create a nested list under a main task called \"Marketing Campaign Launch\"?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Is there a way to duplicate an entire project template, specifically \"Onboarding Flow v3\", without recreating it?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Where is the option to set a recurring task? Like, for a weekly report every Friday at 9 AM.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Why can't I see the timeline view? Do I need a different permission level or am I just missing a button somewhere?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I need to mention Sarah in a comment on task #4567, but it's not popping up when I type '@'. Is there a trick to this?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "What's the shortcut to quickly add a new task to the current project I'm viewing? This is frustratingly slow manually.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "My calendar view is showing too much clutter. How can I filter it to only show my assigned tasks for the next two weeks?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I'm trying to add a dependency between Task A and Task B, but the documentation isn't clear on the drag-and-drop method.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do I change the project owner from John Smith to Jane Doe for the \"Q3 Initiatives\" project before next Monday?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I'm getting overwhelmed by emails from Meridian. How do I turn off email notifications for *all* projects without missing internal app updates?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "Where is the \"archive project\" button? I need to clean up my dashboard, specifically Project \"Old Ideas\".", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Quick question: How do I change the color labels for task priorities? The current red/yellow/green aren't intuitive for our team.", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "I can't figure out how to attach multiple files at once to a task. Do I have to do them one by one, or is there a batch upload?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "What's the process for sharing a specific task with an external guest, like our vendor, without giving them full project access?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "I swear there was a quick way to convert a comment into a task. Am I imagining things or did you remove that feature?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do I export a list of all completed tasks from the \"Product Development\" project for the last month? I need a CSV.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I set a due date for 10/26/2023 but it's not showing up correctly in the timeline view for Project Nebula, it looks off.", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "My Meridian account isn't showing the custom fields I thought we set up for \"Client Budget\". How do I enable them for a new project?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "Pls help, how do I make a task recurring weekly for \"Team Meeting Prep\"?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "The documentation for keyboard shortcuts is a mess. What's the shortcut for creating a new task, like, right now?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I need to move a task from Project A to Project B, but it seems complicated. Is there a simple drag-and-drop or a quick move option?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I'm trying to create a new section within a project, called \"Phase 2\", to organize tasks. Where do I find that functionality?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Where can I see a complete history of changes made to a task, specifically Task ID 9876, including who made them?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "How do I set a reminder for myself on a task, independent of its due date, for instance a day before?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "I'm struggling to get my tasks to display in order of priority (High, Medium, Low) in the list view. What am I doing wrong with the sorting?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Can you explain how to effectively use tags for categorization across multiple projects, and how to create them?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "My project overview dashboard is empty, but I have tasks assigned to me. How do I get it to populate with relevant data?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do I delete a comment I accidentally posted on Task #1234? It's sensitive information.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I want to assign a task to two people simultaneously, like \"Review Document\". Is that possible in Meridian?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do I mark a task as \"blocked\" and add a reason for it? I can't find that status option in the dropdown.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "Is there a quick way to select multiple tasks and change their due date all at once to November 15th?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "The search function isn't finding tasks I know exist for \"Client Follow-up\". Am I using the correct syntax to search within a specific project?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "How do I create a personal \"My Tasks\" view that only shows tasks assigned to me, regardless of project or status?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "Can you help me find the option to customize the task cards in the Board View? I want to show more info like assignee and due date.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I accidentally archived Project \"Website Redesign\" and now I can't find it anywhere. How do I unarchive a project?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "What's the deal with dependencies? I can't seem to set Task 2 to start only after Task 1 is finished using the visualizer.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I need to quickly add a bunch of subtasks to \"Content Creation\" for next week. What's the fastest way to do that besides typing each one?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "How do I upload a document directly to a project, not just a specific task? Is there a project-level file storage area?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "Can you just send me the full keyboard shortcut list? I want to navigate faster but don't want to dig through help articles.", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "How to filter by custom field 'Department' = 'Sales' and 'Status' = 'Open'? The filter menu is quite confusing for me.", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "What's the quickest way to mark everything in Project \"Holiday Promo\" as complete once it finishes on Dec 31st?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "I'm confused about adding guests to specific tasks without giving them full project access. Can you walk me through the steps?", "true_intent": "general_howto", "was_resolved_by_fin": true}
+{"text": "My tasks assigned to \"Team Alpha\" aren't showing up in the Team's shared view. How do I fix this so everyone can see them?", "true_intent": "general_howto", "was_resolved_by_fin": false}
+{"text": "I have a weird issue where my calendar view for Project 2024-Q3-LA is showing tasks due on February 30th; obviously that's not a real date.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My notifications for task updates are all coming through blank, just saying \"You have a new notification.\" Is this a known bug?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Why does the \"estimated cost\" field for new tasks sometimes default to -1.00 even after I set it to zero?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "I clicked on a link in an old task comment from user 'Alex Smith' and it just took me to the Meridian login page instead of the linked document.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Is there a way to export the entire history of all custom field changes for Project ID MER-7788 since 2023-01-01?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Hey, my avatar disappeared again. It's just showing a generic silhouette.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "What does the little pulsing green dot next to the project name in the sidebar mean? I can't find it in the help docs.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "The 'Activity Log' for task \"Website Redesign - Backend\" isn't showing who completed the task, only that it was marked as done.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I tried to attach a file from Google Drive to task MER-DEV-456, and it just kept spinning, then gave an unknown error code.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Why can't I see the option to 'Duplicate Workspace' for the \"New Product Launch\" workspace, but I can for others?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My keyboard shortcuts suddenly stopped working today, like 't' for new task. Is there a setting I accidentally toggled?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Sometimes when I refresh, the sidebar disappears, and I have to clear my cache to get it back. What's up with that?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "The 'Members' tab in Project 'Client Onboarding' shows two entries for 'Emily Johnson,' one active and one inactive, but it's the same email address.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I'm seeing tasks from a deleted project appear in my 'My Tasks' view, but they're grayed out. Is there a way to permanently clear these?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Can I set a conditional reminder that only fires if a task's due date is within 3 days AND its status is still 'In Progress'?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "The 'Project Health' widget on my dashboard is showing 'Critical' for project \"Migration Plan,\" but all tasks are marked as complete.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I'm trying to archive a completed task, but the 'Archive' button is completely grayed out, even though I'm an admin.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "The custom field 'Budget Allocated' sometimes shows $0.00, sometimes empty, and sometimes a random number when I create a new task. Why isn't it consistent?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Why did my recurring task 'Weekly Team Sync' suddenly stop generating for this week? It's been working fine for months.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "I have a task with ID 56789 where the assignee 'Jordan Lee' is listed, but when I click his name, it says 'User Not Found'.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "The 'Time Tracking' report for October 2023 is showing negative hours for some team members, which doesn't make any sense.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I am having issues with the search bar, it sometimes just returns results from entirely different workspaces, even with exact phrasing.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "What if I need to combine two different custom fields into one, preserving the data from both? Is there a feature for that?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "I noticed that for tasks created by user account MER-USER-001 on Tuesdays, the 'Priority' field sometimes defaults to 'High' even when I select 'Low'.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Is there a way to get a notification only when a *specific* subtask within a parent task is completed, not the parent itself?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My 'Dark Mode' setting seems to revert to light mode randomly, usually after a full browser restart.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Can Meridian automatically assign a specific tag to tasks imported from a certain Google Sheet, or does it have to be manual?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "The 'Project Overview' tab shows 12 open tasks, but when I click to view them, only 10 appear. Where are the other two?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I accidentally deleted a comment on task ID 98765, and I need to retrieve it. Is there an 'undo' for comment deletion?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Why is my new team member, Chloe Davis, unable to see the 'Files' tab in Project 'Client X Strategy' when everyone else can?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I'm experiencing a weird lag when typing into the task description box for Project ID MER-1122. It wasn't like this yesterday.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "The task 'Prepare Q1 Report' is due 2024-03-31, but the system just sent me a \"Task Overdue!\" email. What gives?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Is it possible to track how many times a task's status has changed from 'Pending' to 'In Progress' over its lifetime?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "I tried to print the Gantt chart for Project 'Meridian Rollout,' and it came out completely blank.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My 'Workload' view is showing an insane number of hours for 'Daniel Kim' this week, but his actual tasks don't add up to that.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I'm seeing a ghost task named \"Untitled Task\" keep appearing in my 'My Tasks' list, even after I delete it multiple times.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Why are tasks marked as 'Private' still appearing in public searches if someone has the direct link?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "The \"Save as Template\" option for a project is missing for me, but my colleague has it for the same project.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I need to know if there's a limit to how many custom fields I can create per project, or if it impacts performance.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Is it possible to get an alert if a task's due date is moved forward by more than 7 days, and who moved it?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "The 'Copy Task Link' feature is just copying \"undefined\" to my clipboard sometimes, especially for older tasks.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My notifications preferences keep resetting, so I have to re-select what I want to be notified about every few days.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I have a very specific request: can I somehow visualize the average time tasks spend in each status for a particular assignee?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "The 'Export to CSV' for project \"HR Onboarding\" is missing half the custom fields I created.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I need to find out why the 'Assignee' dropdown for task \"New Feature Dev - UI\" is showing an old deactivated user.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "Can I set up a rule that automatically moves tasks to 'Done' if all subtasks are completed, but only for tasks under 'Epic X'?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "My project dashboard widget for 'Tasks Due This Week' isn't updating correctly; it's still showing last week's tasks.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "Why does the comments section sometimes show comments out of order, like older comments appearing below newer ones?", "true_intent": "misc_oneoffs", "was_resolved_by_fin": true}
+{"text": "I'm looking for a way to mark a task as 'blocked' by another task, and have it visually represented somehow.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
+{"text": "I just want to know why my task priority slider is suddenly moving in increments of 5 instead of 1. It's so annoying.", "true_intent": "misc_oneoffs", "was_resolved_by_fin": false}
