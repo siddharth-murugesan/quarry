@@ -18,6 +18,8 @@ dependencies = [
     "hdbscan",
     "numpy",
     "matplotlib",
+    "jinja2",
+    "plotly",
 ]
 
 [tool.setuptools.packages.find]
