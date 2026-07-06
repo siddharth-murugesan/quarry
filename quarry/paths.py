@@ -18,6 +18,8 @@ CONVERSATIONS = RAW_DIR / "conversations.jsonl"
 EMBEDDINGS = PROCESSED_DIR / "embeddings.npy"
 REDUCED_EMBEDDINGS = PROCESSED_DIR / "reduced_embeddings.npy"
 CLUSTERS = PROCESSED_DIR / "clusters.jsonl"
+CLUSTER_LABELS = PROCESSED_DIR / "cluster_labels.json"
+
 
 # Stage 3 artifacts
 REPORT = OUTPUT_DIR / "report.html"
