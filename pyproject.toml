@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Mine unresolved AI support conversations for automation opportunities."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = "MIT"
 authors = [{ name = "Siddharth Murugesan" }]
 dependencies = [
     "google-genai",
@@ -21,4 +21,5 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["."]
+include = ["quarry*"]
